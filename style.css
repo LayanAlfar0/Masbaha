@@ -1,0 +1,27 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Nastaliq+Urdu:wght@400..700&display=swap');
+img{
+    aspect-ratio: 170/100;
+}
+.container{
+    background-color: #559e7c;
+}
+.col {
+    aspect-ratio: 330/340;
+}
+.card {
+    height: 100%;
+}
+.card-body button {
+    width: 40px;
+    height: 20px;
+    margin: auto;
+    background-color: #559e7c;
+}
+h2 {
+    align-self: center;
+    margin-bottom: 62px;
+    font-family: "Noto Nastaliq Urdu", serif;
+    font-size: 55px;
+    color: white;
+}
